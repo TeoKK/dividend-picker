@@ -1,0 +1,6 @@
+{
+  "name": "SGX Dividend Hub",
+  "description": "Singapore Exchange (SGX) dividend share picker, S-REIT screener, and portfolio income tracker with cashflow forecasting and dividend safety analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
